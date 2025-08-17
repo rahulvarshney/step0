@@ -7,7 +7,7 @@ function handler(_req: Request): Promise<Response> {
             "Authorization": "Basic OWRhOTZjZmI5OGU1ZWIxOWMwYjA0ODUxOg=="
 
         },
-        body: "?from=support%40740bsecure.com&to=669bluejay%40gmail.com&subject=AJDLclub&text=party",
+        body: "from=support%40740bsecure.com&to=669bluejay%40gmail.com&subject=AJDLclub&text=party",
     });
 
     // Make the POST request and return its response
